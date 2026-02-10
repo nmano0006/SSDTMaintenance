@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode - ONLY match lowercase 'build' in root directory
+/build/
+DerivedData/
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# Build products
+*.app
+*.ipa
+
+# Swift
+.swiftpm/
+.build/
+Package.resolved
+
+# Temporary files
+*.swp
+*~
+*.tmp
+
+# Logs
+*.log
+
+# Explicitly include our Build folder (capital B)
+!Build/
+
+# Explicitly include our Build folder (capital B)
+!Build/
+!Build/SSDTMaintenance.dmg

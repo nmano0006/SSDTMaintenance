@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>System Maintenance</string>
+	<key>CFBundleExecutable</key>
+	<string>SystemMaintenance</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.navaratnam.systemmaintenance</string>
+	<key>CFBundleName</key>
+	<string>SystemMaintenance</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>DeveloperDonateURL</key>
+	<string>https://www.paypal.com/donate/?business=H3PV9HX92AVMJ&amp;no_recurring=0&amp;item_name=Support+development+of+all+my+apps+and+tools.+Donations+fund+testing+hardware%2C+servers%2C+and+continued+open-source+development.&amp;currency_code=CAD</string>
+	<key>DeveloperEmail</key>
+	<string>nmano0006@gmail.com</string>
+	<key>DeveloperName</key>
+	<string>Navaratnam Manoranjan</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>This app may run system tools to compile SSDTs.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>This app may save generated SSDT files to your Desktop.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>This app needs access to save generated SSDT files.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>This app may save generated SSDT files to your Downloads folder.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2026 Navaratnam Manoranjan. All rights reserved.</string>
+	<key>NSSupportsAutomaticGraphicsSwitching</key>
+	<true/>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+	</dict>
+	<key>com.apple.security.app-sandbox</key>
+	<true/>
+	<key>com.apple.security.cs.disable-library-validation</key>
+	<true/>
+	<key>com.apple.security.files.user-selected.read-write</key>
+	<true/>
+</dict>
+</plist>

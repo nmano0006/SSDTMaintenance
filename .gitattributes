@@ -1,0 +1,8 @@
+* text=auto
+*.pbxproj text eol=lf
+*.swift text eol=lf
+*.md text eol=lf
+*.plist text eol=lf
+*.dmg binary
+*.png binary
+*.jpg binary
