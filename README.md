@@ -1,9 +1,9 @@
 
-# SYSM – SSDT Maintenance & Generator for macOS
+# SSDTMaintenance – SSDT Maintenance & Generator for macOS
 
-SYSM is a macOS application designed to generate, manage, and maintain SSDTs for Hackintosh and advanced macOS system configurations.
+SSDTMaintenance is a macOS application designed to generate, manage, and maintain SSDTs for Hackintosh and advanced macOS system configurations.
 
-The goal of SYSM is to simplify SSDT creation for components such as:
+The goal of SSDTMaintenance is to simplify SSDT creation for components such as:
 - CPU (PLUG, power management)
 - Audio (HDEF)
 - GPU
@@ -43,4 +43,4 @@ This project focuses on **clean ACPI output**, **automation**, and **compatibili
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nmano0006/SYSM.git
+   git clone https://github.com/nmano0006/SSDTMaintenance.git
