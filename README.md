@@ -55,3 +55,14 @@ This project focuses on **clean ACPI output**, **automation**, and **compatibili
 - 🏆 **$50+** - Gold supporter (major feature sponsorship)
 
 *Every donation helps keep SYSM updated and improves the tool for the entire Hackintosh community!*
+## 📸 Screenshots
+
+| Interface | Description |
+|-----------|------------|
+| ![Main Interface](https://raw.githubusercontent.com/nmano0006/SSDTMaintenance/main/screenshots/1.png) | SSDTMaintenance main window |
+| ![Generator Panel](https://raw.githubusercontent.com/nmano0006/SSDTMaintenance/main/screenshots/2.png) | SSDT generator options |
+| ![LAN & Wi-Fi](https://raw.githubusercontent.com/nmano0006/SSDTMaintenance/main/screenshots/3.png) | LAN and Wi-Fi configuration |
+| ![SATA & NVMe](https://raw.githubusercontent.com/nmano0006/SSDTMaintenance/main/screenshots/4.png) | Storage device settings |
+| ![Thunderbolt](https://raw.githubusercontent.com/nmano0006/SSDTMaintenance/main/screenshots/5.png) | Thunderbolt controller setup |
+| ![XHCI & USB](https://raw.githubusercontent.com/nmano0006/SSDTMaintenance/main/screenshots/6.png) | USB port configuration |
+| ![Graphics](https://raw.githubusercontent.com/nmano0006/SSDTMaintenance/main/screenshots/7.png) | GPU settings (iGPU/dGPU) |
